@@ -7,7 +7,9 @@
     "start": "parcel",
     "build": "parcel build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "gsap": "^3.15.0"
+  },
   "devDependencies": {
     "parcel": "^2.14.0"
   }
